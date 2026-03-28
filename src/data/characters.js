@@ -1,4 +1,4 @@
-export default [
+const characters = [
   {
     name: "Squeeps",
     species: "Unknown",
@@ -12,3 +12,4 @@ export default [
     description: "Friendly clobbering buddy"
   }
 ]
+export default characters
