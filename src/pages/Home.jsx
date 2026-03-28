@@ -12,7 +12,8 @@ export default function App() {
 
   return (
     <div className="container">
-      <img
+      <img 
+        class="ztar-title"
         src={import.meta.env.BASE_URL + "images/ztarwars.png"}
         alt="Ztar Wars"
         className="logo"
