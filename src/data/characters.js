@@ -11,7 +11,7 @@ const characters = [
     species: "?",
     affiliation: "Rebel",
     description: "Friendly clobbering buddy",
-    image: "https://riseuplight.github.io/Ztar-Wars/images/squeeps.png"
+    image: "https://riseuplight.github.io/Ztar-Wars/images/ukob.png"
   }
 ]
 export default characters
