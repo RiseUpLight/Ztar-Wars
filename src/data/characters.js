@@ -1,7 +1,7 @@
 const characters = [
   {
-    name: "Squeeps",
-    callsign: "",
+    name: "Shudzae Que",
+    callsign: "Squeeps",
     species: "Chadra Fan",
     homeworld: "Chad",
     age: "16",
@@ -50,6 +50,58 @@ const characters = [
     affiliation: "Rebel",
     description: "Always ready with the most explosive plan",
     image: "https://riseuplight.github.io/Ztar-Wars/images/horn.png"
+  },
+    {
+    name: "Agruskus",
+    callsign: "Goose",
+    species: "",
+    homeworld: "?",
+    age: "9",
+    build: "Tiny childish look",
+    height: "6'10",
+    demeanor: "A curious little guy with pre teen angst and taste for violence",
+    affiliation: "Friendly",
+    description: "So cute... WHACK!",
+    image: "https://riseuplight.github.io/Ztar-Wars/images/goose.png"
+  },
+    {
+    name: "Eris Que",
+    callsign: "E",
+    species: "Human",
+    homeworld: "Coruscant",
+    age: "32",
+    build: "Slim and beautiful",
+    height: "5'8",
+    demeanor: "Confident entrepreneur engery",
+    affiliation: "Friendly",
+    description: "Inn Keeper",
+    image: "https://riseuplight.github.io/Ztar-Wars/images/eris.png"
+  },
+    {
+    name: "Leviathan Doofuschan",
+    callsign: "Levi",
+    species: "",
+    homeworld: "",
+    age: "31",
+    build: "Slim bald and fit",
+    height: "5'11",
+    demeanor: "Fake confidence with a touch of Yoda syndrome",
+    affiliation: "Friendly",
+    description: "Leader of the Old Ones",
+    image: "https://riseuplight.github.io/Ztar-Wars/images/levi.png"
+  },
+    {
+    name: "Verdugo",
+    callsign: "Verdugo",
+    species: "Unknown",
+    homeworld: "Unknown",
+    age: "Unknown",
+    build: "Tall muscular and agile looking",
+    height: "6'10",
+    demeanor: "Mysterious evil leadership vibes",
+    affiliation: "Enemy",
+    description: "Dark brooding underworld leader type",
+    image: "https://riseuplight.github.io/Ztar-Wars/images/verdugo.png"
   },
 ]
 export default characters
