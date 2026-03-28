@@ -12,7 +12,7 @@ export default function App() {
 
   return (
     <div className="container">
-      <h1 className="title">Star Wars Archive</h1>
+      <h1 className="title">Ztar Wars</h1>
 
       <FilterBar setFilter={setFilter} />
 
