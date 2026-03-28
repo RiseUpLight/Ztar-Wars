@@ -13,10 +13,9 @@ export default function App() {
   return (
     <div className="container">
       <img 
-        class="ztar-title"
+        className="ztar-title"
         src={import.meta.env.BASE_URL + "images/ztarwars.png"}
         alt="Ztar Wars"
-        className="logo"
       />
 
       <FilterBar setFilter={setFilter} />
