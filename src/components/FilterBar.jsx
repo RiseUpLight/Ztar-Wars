@@ -1,4 +1,4 @@
-const filters = ['All', 'Jedi', 'Sith', 'Bounty Hunter']
+const filters = ['All', 'Rebel', 'Friendlies', 'Enemies']
 
 export default function FilterBar({ setFilter }) {
   return (
