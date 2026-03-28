@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import characters from '../data/characters'
-import CharacterCard from './components/CharacterCard'
-import FilterBar from './components/FilterBar'
+import CharacterCard from '../components/CharacterCard'
+import FilterBar from '../components/FilterBar'
 
 export default function App() {
   const [filter, setFilter] = useState('All')
