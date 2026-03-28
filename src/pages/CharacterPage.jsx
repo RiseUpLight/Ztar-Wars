@@ -25,6 +25,7 @@ export default function CharacterPage() {
       <p><strong>Build:</strong> {character.build}</p>
       <p><strong>Height:</strong> {character.height}</p>
       <p><strong>Affiliation:</strong> {character.affiliation}</p>
+      <p><strong>Demeanor:</strong> {character.demeanor}</p>
 
     </div>
   )
