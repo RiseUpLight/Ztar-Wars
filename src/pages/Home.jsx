@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import characters from './data/characters'
+import characters from '../data/characters'
 import CharacterCard from './components/CharacterCard'
 import FilterBar from './components/FilterBar'
 
