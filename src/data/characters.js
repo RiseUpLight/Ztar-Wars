@@ -5,9 +5,9 @@ const characters = [
     species: "Chadra Fan",
     homeworld: "Chad",
     age: "16",
-    build: "",
-    height: "",
-    demeanor: "",
+    build: "Tiny, furry, and muscular for his size",
+    height: "2'6",
+    demeanor: "Friendly, smart, full of charm, and likes to slice and dice!",
     affiliation: "Rebel",
     description: "Agile sword-wielding medic",
     image: "https://riseuplight.github.io/Ztar-Wars/images/squeeps.png"
