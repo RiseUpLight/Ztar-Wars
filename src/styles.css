@@ -67,9 +67,10 @@ body {
 }
 
 .ztar-title {
-  width: 100%;
-  max-width: 600px;
-  height: auto;
   display: block;
+  width: 60vw;        /* responsive scaling */
+  max-width: 500px;   /* prevents huge title on desktop */
+  min-width: 200px;   /* prevents tiny title on mobile */
+  height: auto;
   margin: 0 auto;
 }
