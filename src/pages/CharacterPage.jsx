@@ -18,9 +18,14 @@ export default function CharacterPage() {
       />
       
       <h1>{character.name}</h1>
+      <h1>{character.callsign}</h1>
       <p><strong>Species:</strong> {character.species}</p>
+      <p><strong>Homeworld:</strong> {character.homeworld}</p>
+      <p><strong>Age:</strong> {character.age}</p>
+      <p><strong>Build:</strong> {character.build}</p>
+      <p><strong>Height:</strong> {character.height}</p>
       <p><strong>Affiliation:</strong> {character.affiliation}</p>
-      <p>{character.description}</p>
+
     </div>
   )
 }
