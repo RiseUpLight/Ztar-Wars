@@ -65,3 +65,9 @@ body {
 .card:hover {
   transform: scale(1.03);
 }
+
+.ztar-title {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
