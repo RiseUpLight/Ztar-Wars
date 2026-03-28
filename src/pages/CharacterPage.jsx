@@ -10,6 +10,13 @@ export default function CharacterPage() {
 
   return (
     <div className="container">
+
+      <img
+        src={character.image}
+        alt={character.name}
+        style={{ width: '300px', border: '1px solid #00eaff' }}
+      />
+      
       <h1>{character.name}</h1>
       <p><strong>Species:</strong> {character.species}</p>
       <p><strong>Affiliation:</strong> {character.affiliation}</p>
