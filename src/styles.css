@@ -37,7 +37,6 @@ body {
 }
 
 .card {
-  object-position: top center;
   border: 1px solid #00eaff;
   padding: 15px;
   background: rgba(0, 234, 255, 0.05);
